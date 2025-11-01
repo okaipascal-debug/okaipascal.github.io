@@ -1,5 +1,7 @@
+<div align="center">
+  
+##                                                         Pascal Eliezer Okai 
 
-# Pascal Eliezer Okai - Data Analytics Portfolio
 
 ![GitHub](https://img.shields.io/badge/Data-Analyst-blue) ![Machine Learning](https://img.shields.io/badge/ML-Practitioner-orange) ![AWS](https://img.shields.io/badge/AWS-Practitioner-yellow)
 
@@ -149,10 +151,10 @@ I am a data analytics professional with expertise in Python, R, SQL, Tableau and
 
 | **Certification** | **Institution** | **Status** | **Focus Areas** |
 |------------------|----------------|------------|-----------------|
-| Foundations of Business Analytics | Nexford University | Completed Jul 2025 | Business Intelligence, Statistical Analysis |
-| Programming in R & Python | Nexford University | Completed Oct 2025 | Data Programming, Algorithm Development |
+| Foundations of Business Analytics Certificate | Nexford University | Completed Jul 2025 | Business Intelligence, Statistical Analysis |
+| Programming in R & Python Certificate | Nexford University | Completed Oct 2025 | Data Programming, Algorithm Development | Machine learning
 | Google Data Analytics Professional | Coursera | Completed Feb 2025 | Data Analysis, Visualization, SQL |
-| BSc Administration (Accounting) | University of Ghana | 2019-2023 | Financial Analysis, Business Operations |
+| BSc in Administration (Accounting) | University of Ghana | 2019-2023 | Financial Analysis, Business Operations |
 
 ## 💼 Professional Experience
 
@@ -208,7 +210,7 @@ I am a data analytics professional with expertise in Python, R, SQL, Tableau and
 
 <div align="center">
 
-### *"Transforming Data into Decisions, One Algorithm at a Time"*
+### "Transforming Data into Decisions, One Algorithm at a Time"
 
 ⭐ **Star my repositories if you find them useful!** ⭐
 
