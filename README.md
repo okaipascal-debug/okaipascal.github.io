@@ -194,8 +194,7 @@ I am a data analytics professional with expertise in Python, R, SQL, Tableau and
 
 <div align="center">
 
-**📧 Email:** [okaipascal@gmail.com](mailto:okaipascal@gmail.com)  
-**📱 Phone:** +233 (247) 08-2325  
+**📧 Email:** [okaipascal@gmail.com](mailto:okaipascal@gmail.com)   
 **💼 LinkedIn:** [Pascal Eliezer Okai](https://linkedin.com/in/pascal-eliezer-okai-6a9a45162)  
 **🐙 GitHub:** [@okaipascal-debug](https://github.com/okaipascal-debug)  
 **📂 Portfolio:** [View All Projects](https://github.com/okaipascal-debug?tab=repositories)
